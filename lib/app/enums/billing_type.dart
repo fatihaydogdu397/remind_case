@@ -1,0 +1,1 @@
+enum BillingType { Person, Company }
